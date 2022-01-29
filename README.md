@@ -7,11 +7,11 @@ https:://git-scm.com/download
 # Cenários - Caso de uso
 
 # Somos os Deuses do projeto
-- [  ] Você desejar criar pontos na história da produção do projeto
-- [  ] Você deseja verificar as mudanças feitas no seu projeto
-- [  ] Você deseja construir uma nova funcionalidade, porém sem estragar o projeto produção
-- [  ] Você adiciona as novas funcionalidades ao seu projeto em produção
-- [  ] Você agora precisa deletar a branch da nova funcionalidade, depois de aplicar no projeto
+- [x] Você desejar criar pontos na história da produção do projeto
+- [x] Você deseja verificar as mudanças feitas no seu projeto
+- [x] Você deseja construir uma nova funcionalidade, porém sem estragar o projeto produção
+- [x] Você adiciona as novas funcionalidades ao seu projeto em produção
+- [x] Você agora precisa deletar a branch da nova funcionalidade, depois de aplicar no projeto
 
 # Inicializar o projeto com o Git
 	- git init
