@@ -2,7 +2,7 @@
 
 ### Instalação 
 
-https:://git-scm.com/download
+* https:://git-scm.com/download
 
 # Cenários - Caso de uso
 
